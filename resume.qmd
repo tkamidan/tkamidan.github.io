@@ -7,7 +7,7 @@ title: Treven Amidan's CV
 Student at Brigham Young University - Idaho
 
 <div id="webaddress">
-    <a href="ami22001@byui.edu">ami22001@byui.edu</a>
+    ami22001@byui.edu
 </div>
 
 
