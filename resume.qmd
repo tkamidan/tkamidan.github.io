@@ -1,7 +1,8 @@
---
+---
 layout: cv
 title: Treven Amidan's CV
 ---
+
 # Treven Amidan
 Student at Brigham Young University - Idaho
 
